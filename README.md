@@ -1,3 +1,3 @@
 
 # wait for fix
-## Also not for Duplicate bitches
+# Also not for Duplicate bitches
